@@ -8,7 +8,7 @@ DemoButton 是一个示例按钮组件
 
 ```js
 import Vue from 'vue';
-import { DemoButton } from 'jf-ui';
+import { DemoButton } from 'jiangfeng-ui';
 
 Vue.use(DemoButton);
 ```

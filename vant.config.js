@@ -1,15 +1,15 @@
 module.exports = {
-  name: 'jf-ui',
+  name: 'jiangfeng-ui',
   build: {
     css: {
       preprocessor: 'sass',
     },
     site: {
-      publicPath: '/jf-ui/',
+      publicPath: '/jiangfeng-ui/',
     },
   },
   site: {
-    title: 'jf-ui',
+    title: 'jiangfeng-ui',
     logo: 'https://fastly.jsdelivr.net/npm/@vant/assets/logo.png',
     nav: [
       {

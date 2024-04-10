@@ -4,11 +4,11 @@
 
 ```bash
 # 通过 npm
-npm i jf-ui
+npm i jiangfeng-ui
 
 # 通过 yarn
-yarn add jf-ui
+yarn add jiangfeng-ui
 
 # 通过 pnpm
-pnpm add jf-ui
+pnpm add jiangfeng-ui
 ```

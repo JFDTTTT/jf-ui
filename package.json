@@ -1,8 +1,8 @@
 {
-  "name": "jf-ui",
+  "name": "jiangfeng-ui",
   "version": "1.0.1",
   "description": "",
-  "main": "lib/jf-ui.js",
+  "main": "lib/jiangfeng-ui.js",
   "style": "lib/index.css",
   "files": [
     "lib",
