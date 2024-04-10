@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "@vant/cli": "^2.0.0",
+    "nano-staged": "^0.8.0",
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
   },
@@ -45,6 +46,7 @@
   "prettier": {
     "singleQuote": true
   },
+  "license": "MIT",
   "browserslist": [
     "Android >= 4.0",
     "iOS >= 8"
